@@ -2,5 +2,5 @@
 - 👀 I’m interested in blockchain development.
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on crypto projects.
-- 📫 How to reach me: tymoran _at_ protonmail .com
-
+- 📫 How to reach me: hello _at_ tymoran _dot_ com
+- 🌐 Check out my website: https://tymoran.com
